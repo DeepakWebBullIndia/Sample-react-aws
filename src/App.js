@@ -6,8 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p> this is my first code for Shreya. 
-         I LOVE SHREYA
+        <p> this is my first code Web Bull India Team. 
+         Congratulation for making it on AWS!
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
